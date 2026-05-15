@@ -24,6 +24,7 @@ nav_order: 3
 
     <h3>Education</h3>
     <p>Ph.D. in Physics, Ohio University, USA (2014)<br>B.Sc. in Physics and Physics Education, East China Normal University, China (2007)</p>
+
   </div>
 </div>
 
