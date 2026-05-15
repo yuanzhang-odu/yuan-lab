@@ -1,0 +1,55 @@
+"JACS":
+  url: https://pubs.acs.org/journal/jacsat
+  color: "#003767"
+
+"IEEE URTC":
+  url: https://urtc.mit.edu/
+  color: "#0e7490"
+
+"Angew. Chem.":
+  url: https://onlinelibrary.wiley.com/journal/15213773
+  color: "#9f1239"
+
+"ICMLA":
+  url: https://www.icmla-conference.org/
+  color: "#365314"
+
+"Nano Lett.":
+  url: https://pubs.acs.org/journal/nalefd
+  color: "#4f46e5"
+
+"Nat. Chem.":
+  url: https://www.nature.com/nchem/
+  color: "#0f766e"
+
+"Nat. Commun.":
+  url: https://www.nature.com/ncomms/
+  color: "#0b5e4a"
+
+"Nanoscale":
+  url: https://www.rsc.org/journals-books-databases/about-journals/nanoscale/
+  color: "#6699cc"
+
+"ACS Nano":
+  url: https://pubs.acs.org/journal/ancac3
+  color: "#7c2d12"
+
+"Adv. Mater.":
+  url: https://onlinelibrary.wiley.com/journal/15214095
+  color: "#a66a12"
+
+"Surf. Sci.":
+  url: https://www.sciencedirect.com/journal/surface-science
+  color: "#475569"
+
+"J. Phys. Chem. C":
+  url: https://pubs.acs.org/journal/jpccck
+  color: "#1d4ed8"
+
+"APL":
+  url: https://pubs.aip.org/aip/apl
+  color: "#5b21b6"
+
+"Nat. Nano.":
+  url: https://www.nature.com/nnano/
+  color: "#991b1b"

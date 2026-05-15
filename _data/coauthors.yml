@@ -1,0 +1,5 @@
+# Map last names to coauthor profile URLs.
+# Format:
+# "lastname":
+#   - firstname: ["First", "F.", "F. M."]
+#     url: https://example.com/profile
