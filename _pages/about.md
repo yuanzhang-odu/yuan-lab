@@ -20,7 +20,7 @@ nav_order: 1
   <img class="rounded z-depth-1" src="{{ '/assets/img/zhang/home/homefinal2.png' | relative_url }}" alt="Scanning probe microscopy images from the Zhang Lab">
 </div>
 
-## About Us
+## About Dr. Zhang
 
 Welcome to Yuan Zhang's research group. We specialize in single atom/molecule level investigations and manipulations using low temperature (77 K, 4.2 K) ultra-high vacuum scanning tunneling microscopy (LT-UHV-STM) and qPlus atomic force microscopy (Q+AFM). More specifically, we investigate and operate various artificial molecular machines such as single molecule motors, unidirectional propellers, rotor networks, and molecular transport devices on material surfaces.
 
