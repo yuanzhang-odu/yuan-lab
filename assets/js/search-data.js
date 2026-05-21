@@ -7,35 +7,35 @@ ninja.data = [{
     title: "Zhang Lab",
     section: "Navigation",
     handler: () => {
-      window.location.href = "/";
+      window.location.href = "/yuan-lab/";
     },
   },{id: "nav-research",
           title: "research",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/research/";
+            window.location.href = "/yuan-lab/research/";
           },
         },{id: "nav-members",
           title: "members",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/members/";
+            window.location.href = "/yuan-lab/members/";
           },
         },{id: "nav-publications",
           title: "publications",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/publications/";
+            window.location.href = "/yuan-lab/publications/";
           },
         },{id: "nav-gallery",
           title: "gallery",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/gallery/";
+            window.location.href = "/yuan-lab/gallery/";
           },
         },{
       id: 'light-theme',

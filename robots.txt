@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://yuanzhang-odu.github.io/sitemap.xml
+Sitemap: https://yuanzhang-odu.github.io/yuan-lab/sitemap.xml
