@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "yuanzhang-odu/group",
+    "data-repo": "yuanzhang-odu/yuan-lab",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
